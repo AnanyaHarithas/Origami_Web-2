@@ -1,0 +1,8 @@
+.body{
+    background-color: steelblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+.head{
+    background-color: palevioletred;
+}
